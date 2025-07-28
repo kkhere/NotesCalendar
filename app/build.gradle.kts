@@ -62,4 +62,5 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.0")
     implementation ("androidx.compose.material3:material3:1.2.1")
     implementation ("androidx.constraintlayout:constraintlayout:2.1.4")
+//    implementation ("androidx.compose:compose-bom:202X.X.X")
 }
